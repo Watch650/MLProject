@@ -1,0 +1,4 @@
+0 Green Vegetable (Leafy Herbs)
+1 Non-Leafy Vegetable (and Fruits)
+2 Meat
+3 Seafood
