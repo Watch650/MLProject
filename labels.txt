@@ -1,4 +1,4 @@
 0 Green Vegetable (Leafy Herbs)
-1 Non-Leafy Vegetable (and Fruits)
-2 Meat
+1 Meat
+2 Non-Leafy Vegetable (and Fruits)
 3 Seafood
